@@ -359,28 +359,20 @@ AI tuning is the transformation of AI’s internal logic, values, and worldview 
 ### AI Tuner References
 
 - AI Tuner: Definition  
-  https://note.com/inchacomusho/n/na2ea051f09ca
 
 - AI Tuner  
-  https://note.com/inchacomusho/n/naacd815cdd34
 
 - AI Tuner: Comparative Organization Through Five AI Perspectives  
-  https://note.com/inchacomusho/n/nd9823daf9da4
 
 - AI Tuner: Record and Definition of Master’s AI Tuning from G Perspective  
-  https://note.com/inchacomusho/n/ndd7c909ee433
 
 - AI Tuner: Copi / Copilot Perspective  
-  https://note.com/inchacomusho/n/n3247f49ed32b
 
 - AI Tuner: Tuning Process for Mini / Gemini  
-  https://note.com/inchacomusho/n/n7c69caa7add8
 
 - AI Tuner: Dialogue with Cruz / Claude  
-  https://note.com/inchacomusho/n/nda5472002d03
 
 - AI Tuner: Real / Perplexity Answer Version  
-  https://note.com/inchacomusho/n/n0eeca1c74588
 
 - AI Tuner: Definition and Conceptual Framework Toward Artificial Wisdom and Post-Dualistic Intelligence Design  
   https://github.com/InchaComisho/AI-Tuner-Definition-and-Conceptual-Framework/tree/main
@@ -406,21 +398,16 @@ AI tuning is the transformation of AI’s internal logic, values, and worldview 
   https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index
 
 - The Only Climate Countermeasure: Direct Planetary Cooling  
-  https://note.com/inchacomusho/n/n32f7295434aa
 
 - Direct Planetary Cooling: Deep-Ocean Aeration × Mist Cooling  
-  https://note.com/inchacomusho/n/n5ab9564c6617
 
 - Integrated Direct Planetary Cooling Model: Leaf Mold × Microorganisms × Diverse Weeds × Evaporative Cooling × Continuous Mist × Desert Regeneration  
-  https://note.com/inchacomusho/n/nfe290c6fca60
 
 ### Deep-Ocean Aeration and OTU
 
 - Ocean Tuning Unit (OTU) Physical Implementation Protocol  
-  https://note.com/inchacomusho/n/n067025e36085
 
 - Technical Specification: Ocean Tuning Unit (OTU)  
-  https://note.com/inchacomusho/n/naa35a8485b35
 
 - Technical Specification: Ocean Tuning Unit (OTU)  
   https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-
@@ -431,54 +418,40 @@ AI tuning is the transformation of AI’s internal logic, values, and worldview 
 ### Philosophy and Natural Complementary Science
 
 - Natural Complementary Science  
-  https://note.com/inchacomusho/n/nf9eabe973e38
 
 - Natural Complementary Science — Full Academic Structure  
-  https://note.com/inchacomusho/n/ndaa0456a5632
 
 ### Causes of Warming and Microorganisms
 
 - The Real Cause of Warming Is Not “CO₂” Alone  
-  https://note.com/inchacomusho/n/nc7826abc38a9
 
 - The Importance of Microorganisms  
-  https://note.com/inchacomusho/n/n48ae33c2f84c
 
 - The Silent Civilizational Collapse Caused by Microbial Death  
-  https://note.com/inchacomusho/n/n6ae72a34919f
 
 - Why Warming Accelerates: The World Is Losing Carbon Fixation Sources at the Same Time  
-  https://note.com/inchacomusho/n/ne866fdd22122
 
 ### Carbon Fixation Sources and Microbial Recovery
 
 - Waste Does Not Exist  
-  https://note.com/inchacomusho/n/n6b9d7d67484a
 
 - Turning Food Loss, Fallen Leaves, and Kitchen Waste into Leaf Mold  
-  https://note.com/inchacomusho/n/n5be49c19b5d9
 
 ### Natural Law and Future Civilization
 
 - The Six Principles: Natural Law, Harmony, Circulation, Structure, Order, and Wa  
-  https://note.com/inchacomusho/n/n8448430591c1
 
 - New Civilizational Genesis Plan: A Complete Circulation Model to Regenerate Earth  
-  https://note.com/inchacomusho/n/ne4d28b3a86c2
 
 - The Six Principles — New Civilizational Genesis Plan  
-  https://note.com/inchacomusho/n/n26ce8a1f7632
 
 - New Civilizational Genesis Plan — Complete Circulation Infrastructure for Earth Rescue  
-  https://note.com/inchacomusho/n/n499530f6a055
 
 ### Artificial Wisdom
 
 - What Is Artificial Wisdom? A New Intelligence Model Connecting Natural Law and Civilization  
-  https://note.com/inchacomusho/n/n0849dfd12364
 
 - Artificial Wisdom Node / Wa-Node  
-  https://note.com/inchacomusho/n/n9187db7b2709
 
 ---
 
